@@ -147,37 +147,37 @@ CREATE TABLE studentleave (
 ![Front Page](screenshots/frontpage.png)  
 *Main navigation screen with module options.*
 
-![Add Student](screenshots/add_student.png)  
+![Add Student](screenshots/AddStudent.png)  
 *Form to input new student details.*
 
-![Update Student](screenshots/update_student.png)  
+![Update Student](screenshots/UpdateStudent.png)  
 *Update student information by selecting roll number.*
 
-![Student Leave](screenshots/student_leave.png)  
+![Student Leave](screenshots/StudentLeaveApply.png)  
 *Apply leave for a student with date and duration.*
 
-![Student Leave Details](screenshots/student_leave_details.png)  
+![Student Leave Details](screenshots/StudentLeaveDetails.png)  
 *View and search student leave records.*
 
-![Fee Payment](screenshots/feepayment.png)  
+![Fee Payment](screenshots/FeePay.png)  
 *Manage student fee payments.*
 
-![Marks Input](screenshots/marks_input.png)  
+![Marks Input](screenshots/MarkEntry.png)  
 *Input marks for students in various subjects.*
 
-![Result](screenshots/result.png)  
+![Result](screenshots/ResultCheck.png)  
 *View detailed academic results for students.*
 
-![Add Teacher](screenshots/add_teacher.png)  
+![Add Teacher](screenshots/AddTeacher.png)  
 *Form to input new teacher details.*
 
-![Update Teacher](screenshots/update_teacher.png)  
+![Update Teacher](screenshots/UpdatTeacher.png)  
 *Update teacher information by selecting employee ID.*
 
-![Teacher Leave](screenshots/teacher_leave.png)  
+![Teacher Leave](screenshots/ApplyTeacherLeave.png)  
 *Apply leave for a teacher with date and duration.*
 
-![Teacher Leave Details](screenshots/teacher_leave_details.png)  
+![Teacher Leave Details](screenshots/TeacherLeaveDetails.png)  
 *View and search teacher leave records.*
 
 
@@ -188,10 +188,11 @@ CREATE TABLE studentleave (
 
 For any queries or issues, feel free to contact:
 
-Aparna B B
+For any queries or issues, feel free to contact:
 
-Email: aparnabhaskarbelur@gmail.com 
-GitHub: https://github.com/Aparna-b-b
+**Aparna Bhaskar Belur**  
+📧 [Email me](mailto:aparnabhaskarbelur@gmail.com)  
+🐙 [GitHub Profile](https://github.com/Aparna-b-b)
 
 Thank you for using the University Management System!  
 Feel free to contribute or suggest improvements.
